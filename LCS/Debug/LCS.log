@@ -1,0 +1,14 @@
+﻿  LCS.c
+C:\Users\Олександр\source\repos\Homework__4\LCS\LCS.c(18,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Олександр\source\repos\Homework__4\LCS\LCS.c(20,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Олександр\source\repos\Homework__4\LCS\LCS.c(33,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Олександр\source\repos\Homework__4\LCS\LCS.c(35,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Олександр\source\repos\Homework__4\LCS\LCS.c(46,25): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[11]"
+C:\Users\Олександр\source\repos\Homework__4\LCS\LCS.c(46,23): warning C4024: LCS: различные типы для формального и фактического параметров 1
+C:\Users\Олександр\source\repos\Homework__4\LCS\LCS.c(46,29): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[10]"
+C:\Users\Олександр\source\repos\Homework__4\LCS\LCS.c(46,27): warning C4024: LCS: различные типы для формального и фактического параметров 2
+C:\Users\Олександр\source\repos\Homework__4\LCS\LCS.c(47,10): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[11]"
+C:\Users\Олександр\source\repos\Homework__4\LCS\LCS.c(47,8): warning C4024: LCS_2: различные типы для формального и фактического параметров 1
+C:\Users\Олександр\source\repos\Homework__4\LCS\LCS.c(47,14): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[10]"
+C:\Users\Олександр\source\repos\Homework__4\LCS\LCS.c(47,12): warning C4024: LCS_2: различные типы для формального и фактического параметров 2
+  LCS.vcxproj -> C:\Users\Олександр\source\repos\Homework__4\Debug\LCS.exe
