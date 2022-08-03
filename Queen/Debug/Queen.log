@@ -1,3 +1,0 @@
-﻿  Queen.c
-C:\Users\Олександр\source\repos\Homework__4\Queen\Queen.c(24,10): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
-  Queen.vcxproj -> C:\Users\Олександр\source\repos\Homework__4\Debug\Queen.exe

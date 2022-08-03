@@ -1,0 +1,3 @@
+﻿  Horse.c
+D:\GitHub_Clone\Homework__4\Horse\Horse.c(33,13): warning C4013: exit: нет определения; предполагается "extern" с возвратом типа "int"
+  Horse.vcxproj -> D:\GitHub_Clone\Homework__4\x64\Debug\Horse.exe
